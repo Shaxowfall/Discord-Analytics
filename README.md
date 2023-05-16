@@ -5,7 +5,7 @@
 
  This One Logs Keystrokes (Discord Approved Spyware) || X32
 https://www.virustotal.com/gui/file/628b8c58c27d2bfb634b26db8f67f040a83eff0a96ece5857edb0e1a67ad0c8a/behavior
-# The Same Executable But Intended For X64
+ The Same Executable But Intended For X64
 https://www.virustotal.com/gui/file/94eb5154aab954f8cd1775d1521459aef3ee5b4b46c38d36511b545eabb8af97/behavior
 
  This Executable Lowers The Security Policy Of PowerShell (Very Sketchy) And Tries To Keep A Constant Connection To A Foreign Server
