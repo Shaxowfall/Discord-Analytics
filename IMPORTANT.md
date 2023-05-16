@@ -1,3 +1,6 @@
+All Files Can Be Found Scattered In The Main Discord Appdata Directory
+C:\Users\{User}\AppData\Local\Discord\app-{App_Version}\modules
+
 All Of These Referenced Files Dont Impact Discords Functionality In Any Way But Somehow They Are An Important Compenent To Discords Functionality
 
 This One Logs Keystrokes (Discord Approved Spyware) || X32
